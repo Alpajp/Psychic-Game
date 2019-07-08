@@ -1,8 +1,8 @@
 # Psychic-Game
 
-This is a computer game. These apps is created using HTML and CSS powered by JavaScript code. App will run in the browser.
+This is a computer game. These app is created using HTML and CSS powered by JavaScript code. App will run in the browser.
 
-At the start of each game, the game will randomly pick a letter. Your challenge is to try and guess the random letter. You have nine guesses to get as many right guesses as you can. Letters you have already guessed will be displayed on the page.
+At the start of each game, the game will randomly pick a letter. Your challenge is to try and guess the random letter. You have nine guesses to get as many right guesses as you can. Letters you have already guessed will be displayed on the page. If you loose the game, you need to refresh the screen.  
 
 This is a link to Psychic Game. https://alpajp.github.io/Psychic-Game./
 
